@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ethanquinlan1997/React-Portfolio/static/css/main.ad7bc5e5.css",
+    "main.js": "/ethanquinlan1997/React-Portfolio/static/js/main.725227fa.js",
+    "static/media/PetCheckPlus.png": "/ethanquinlan1997/React-Portfolio/static/media/PetCheckPlus.57d31c6950863814486c.png",
+    "static/media/PreworkStudyGuide.png": "/ethanquinlan1997/React-Portfolio/static/media/PreworkStudyGuide.6ac1508cbf4894b3b8f8.png",
+    "static/media/marvel-character-compatibility.png": "/ethanquinlan1997/React-Portfolio/static/media/marvel-character-compatibility.2929f35b6536b9fa9848.png",
+    "static/media/TimedJsQuiz.png": "/ethanquinlan1997/React-Portfolio/static/media/TimedJsQuiz.35d21f4fce1fcec104d9.png",
+    "index.html": "/ethanquinlan1997/React-Portfolio/index.html",
+    "main.ad7bc5e5.css.map": "/ethanquinlan1997/React-Portfolio/static/css/main.ad7bc5e5.css.map",
+    "main.725227fa.js.map": "/ethanquinlan1997/React-Portfolio/static/js/main.725227fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad7bc5e5.css",
+    "static/js/main.725227fa.js"
+  ]
+}
