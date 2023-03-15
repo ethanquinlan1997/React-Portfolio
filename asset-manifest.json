@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/ethanquinlan1997/React-Portfolio/static/css/main.1731a784.css",
-    "main.js": "/ethanquinlan1997/React-Portfolio/static/js/main.34317b2b.js",
+    "main.css": "/ethanquinlan1997/React-Portfolio/static/css/main.38fbd362.css",
+    "main.js": "/ethanquinlan1997/React-Portfolio/static/js/main.02bafd1e.js",
     "static/media/PetCheckPlus.png": "/ethanquinlan1997/React-Portfolio/static/media/PetCheckPlus.57d31c6950863814486c.png",
+    "static/media/RegexTutorial.png": "/ethanquinlan1997/React-Portfolio/static/media/RegexTutorial.d1d7dbf8bb56bfe36acb.png",
     "static/media/PreworkStudyGuide.png": "/ethanquinlan1997/React-Portfolio/static/media/PreworkStudyGuide.6ac1508cbf4894b3b8f8.png",
     "static/media/marvel-character-compatibility.png": "/ethanquinlan1997/React-Portfolio/static/media/marvel-character-compatibility.2929f35b6536b9fa9848.png",
     "static/media/TimedJsQuiz.png": "/ethanquinlan1997/React-Portfolio/static/media/TimedJsQuiz.35d21f4fce1fcec104d9.png",
+    "static/media/PasswordGenerator.png": "/ethanquinlan1997/React-Portfolio/static/media/PasswordGenerator.93ff5378083d068dad10.png",
     "index.html": "/ethanquinlan1997/React-Portfolio/index.html",
-    "main.1731a784.css.map": "/ethanquinlan1997/React-Portfolio/static/css/main.1731a784.css.map",
-    "main.34317b2b.js.map": "/ethanquinlan1997/React-Portfolio/static/js/main.34317b2b.js.map"
+    "main.38fbd362.css.map": "/ethanquinlan1997/React-Portfolio/static/css/main.38fbd362.css.map",
+    "main.02bafd1e.js.map": "/ethanquinlan1997/React-Portfolio/static/js/main.02bafd1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1731a784.css",
-    "static/js/main.34317b2b.js"
+    "static/css/main.38fbd362.css",
+    "static/js/main.02bafd1e.js"
   ]
 }
