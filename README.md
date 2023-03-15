@@ -4,7 +4,8 @@
 Welcome to my portfolio! This is all done by using React.js.
 
 ## Table of Contents
-​* [Links](#links)
+​
+* [Links](#links)
 * [Contributions](#contributions)
 * [License](#license)
 
