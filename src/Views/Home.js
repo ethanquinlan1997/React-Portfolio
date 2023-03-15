@@ -1,6 +1,5 @@
 import React from "react";
-import { Icon } from "@iconify/react";
-import reactIcon from "@iconify/icons-logos/react";
+
 
 
 export default function Home() {
@@ -12,7 +11,7 @@ export default function Home() {
             About Me
           </h1>
         </div>
-        <p class="text-white dark:text-gray100 leading-relaxed  text-xl mx-auto pb-2 mt-4 text-center">
+        <p className="text-white dark:text-gray100 leading-relaxed  text-xl mx-auto pb-2 mt-4 text-center">
           My name is Ethan Quinlan and I'm currently a full-stack web
           development student at the University of North Carolina at Charlotte.
           I always had a love for computers and how they function. I grew up as
@@ -31,7 +30,7 @@ export default function Home() {
             Skills
           </h1>
         </div>
-        <ul class="relative pt-20 pb-8 md:pt-24 md:pb-12 dark:bg-opacity-20">
+        <ul className="relative pt-20 pb-8 md:pt-24 md:pb-12 dark:bg-opacity-20 text-white">
           <li>HTML</li>
           <li>Sequelize</li>
           <li>Express</li>

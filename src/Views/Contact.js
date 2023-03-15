@@ -17,7 +17,7 @@ export default function Contact() {
                   >
                     Contact Me
                   </h2>
-                  <p class="text-body-color mb-9 text-base leading-relaxed">
+                  <p className="text-body-color mb-9 text-base leading-relaxed">
                     If you have any questions, feel free to reach out via email/phone! 
                   </p>
                   <div className="mb-8 flex w-full max-w-[370px]">
@@ -50,7 +50,7 @@ export default function Contact() {
                         width="24"
                         height="26"
                         viewBox="0 0 24 26"
-                        class="fill-current"
+                        className="fill-current"
                       >
                         <path
                           d="M22.6149 15.1386C22.5307 14.1704 21.7308 13.4968 20.7626 13.4968H2.82869C1.86042 13.4968 1.10265 14.2125 0.97636 15.1386L0.092295 23.9793C0.0501967 24.4845 0.21859 25.0317 0.555377 25.4106C0.892163 25.7895 1.39734 26 1.94462 26H21.6887C22.1939 26 22.6991 25.7895 23.078 25.4106C23.4148 25.0317 23.5832 24.5266 23.5411 23.9793L22.6149 15.1386ZM21.9413 24.4424C21.8992 24.4845 21.815 24.5687 21.6466 24.5687H1.94462C1.81833 24.5687 1.69203 24.4845 1.64993 24.4424C1.60783 24.4003 1.52364 24.3161 1.56574 24.1477L2.4498 15.2649C2.4498 15.0544 2.61819 14.9281 2.82869 14.9281H20.8047C21.0152 14.9281 21.1415 15.0544 21.1835 15.2649L22.0676 24.1477C22.0255 24.274 21.9834 24.4003 21.9413 24.4424Z"
@@ -63,69 +63,69 @@ export default function Contact() {
                         />
                       </svg>
                     </div>
-                    <div class="w-full">
-                      <h4 class="text-dark mb-1 text-xl font-bold">Phone Number</h4>
-                      <p class="text-body-color text-base">(704)-620-8199</p>
+                    <div className="w-full">
+                      <h4 className="text-dark mb-1 text-xl font-bold">Phone Number</h4>
+                      <p className="text-body-color text-base">(704)-620-8199</p>
                     </div>
                   </div>
-                  <div class="mb-8 flex w-full max-w-[370px]">
+                  <div className="mb-8 flex w-full max-w-[370px]">
                     <div
-                      class="bg-primary text-primary mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
+                      className="bg-primary text-primary mr-6 flex h-[60px] w-full max-w-[60px] items-center justify-center overflow-hidden rounded bg-opacity-5 sm:h-[70px] sm:max-w-[70px]"
                     >
                       <svg
                         width="28"
                         height="19"
                         viewBox="0 0 28 19"
-                        class="fill-current"
+                        className="fill-current"
                       >
                         <path
                           d="M25.3636 0H2.63636C1.18182 0 0 1.16785 0 2.6052V16.3948C0 17.8322 1.18182 19 2.63636 19H25.3636C26.8182 19 28 17.8322 28 16.3948V2.6052C28 1.16785 26.8182 0 25.3636 0ZM25.3636 1.5721C25.5909 1.5721 25.7727 1.61702 25.9545 1.75177L14.6364 8.53428C14.2273 8.75886 13.7727 8.75886 13.3636 8.53428L2.04545 1.75177C2.22727 1.66194 2.40909 1.5721 2.63636 1.5721H25.3636ZM25.3636 17.383H2.63636C2.09091 17.383 1.59091 16.9338 1.59091 16.3499V3.32388L12.5 9.8818C12.9545 10.1513 13.4545 10.2861 13.9545 10.2861C14.4545 10.2861 14.9545 10.1513 15.4091 9.8818L26.3182 3.32388V16.3499C26.4091 16.9338 25.9091 17.383 25.3636 17.383Z"
                         />
                       </svg>
                     </div>
-                    <div class="w-full">
-                      <h4 class="text-dark mb-1 text-xl font-bold">Email Address</h4>
-                      <p class="text-body-color text-base">ethan.quinlan2016@gmail.com</p>
+                    <div className="w-full">
+                      <h4 className="text-dark mb-1 text-xl font-bold">Email Address</h4>
+                      <p className="text-body-color text-base">ethan.quinlan2016@gmail.com</p>
                     </div>
                   </div>
                 </div>
               </div>
-              <div class="w-full px-4 lg:w-1/2 xl:w-5/12">
+              <div className="w-full px-4 lg:w-1/2 xl:w-5/12">
                 <div >
                   <form className="relative rounded-lg bg-gray-900 p-8 shadow-lg sm:p-12">
                     <h1></h1>
-                    <div class="m-6">
+                    <div className="m-6">
                       <input
                         type="text"
                         placeholder="Your Name"
-                        class="text-body-color border-[f0f0f0] focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
+                        className="text-body-color border-[f0f0f0] focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
                       />
                     </div>
-                    <div class="mb-6">
+                    <div className="mb-6">
                       <input
                         type="email"
                         placeholder="Your Email"
-                        class="text-body-color border-[f0f0f0] focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
+                        className="text-body-color border-[f0f0f0] focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
                       />
                     </div>
-                    <div class="mb-6">
+                    <div className="mb-6">
                       <input
                         type="text"
                         placeholder="Your Phone"
-                        class="text-body-color border-[f0f0f0] focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
+                        className="text-body-color border-[f0f0f0] focus:border-primary w-full rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
                       />
                     </div>
-                    <div class="mb-6">
+                    <div className="mb-6">
                       <textarea
                         rows="6"
                         placeholder="Your Message"
-                        class="text-body-color border-[f0f0f0] focus:border-primary w-full resize-none rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
+                        className="text-body-color border-[f0f0f0] focus:border-primary w-full resize-none rounded border py-3 px-[14px] text-base outline-none focus-visible:shadow-none"
                       ></textarea>
                     </div>
                     <div>
                       <button
                         type="submit"
-                        class="bg-primary border-primary w-full rounded border p-3 text-white transition hover:bg-opacity-90"
+                        className="bg-primary border-primary w-full rounded border p-3 text-white transition hover:bg-opacity-90"
                       >
                         Send Message
                       </button>

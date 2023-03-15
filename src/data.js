@@ -2,6 +2,9 @@ import MarvelousLoveImage from "./assets/marvel-character-compatibility.png"
 import PreworkStudyGuideImage from "./assets/PreworkStudyGuide.png"
 import PetCheckPlusImage from "./assets/PetCheckPlus.png"
 import TimedJsQuizImage from "./assets/TimedJsQuiz.png"
+import PasswordGeneratorImage from './assets/PasswordGenerator.png'
+import RegexTutorialImage from './assets/RegexTutorial.png'
+
 
 export const projects = [
     {
@@ -36,7 +39,25 @@ export const projects = [
       image: TimedJsQuizImage,
       link: "https://ethanquinlan1997.github.io/Timed-JavaScript-Quiz/",
     },
+    {
+      title: "Password Generator",
+      subtitle: "JavaScript",
+      description:
+        "My objective was to get prompts to appear on screen for user's to choose a password length between 8-128 and select either numbers, symbols, lowercase and uppercase letters. Once the user selected their choices, a random password based off their criteria selected would appear in a text box.",
+      image: PasswordGeneratorImage,
+      link: "https://ethanquinlan1997.github.io/Password-Generator/",
+    },
+    {
+      title: "Regex Tutorial",
+      subtitle: "Regex Expression Guide",
+      description:
+        "A regex, which is short for regular expression, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also frequently used to validate input.",
+      image: RegexTutorialImage,
+      link: "https://gist.github.com/ethanquinlan1997/0b5db7c5a131a8d629912085c1be800d",
+    },
  
   ];
+
+
   
   
