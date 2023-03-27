@@ -7,6 +7,9 @@ import Home from "./Views/Home";
 import Contact from "./Views/Contact";
 import Projects from "./Views/Projects";
 
+
+
+
 export default function MyApp() {
   return (
     

@@ -10,7 +10,7 @@ Welcome to my portfolio! This is all done by using React.js.
 * [License](#license)
 
 ## Links 
-React App - https://ethanquinlan1997.github.io/React-Portfolio/
+React App - https://agile-everglades-35532.herokuapp.com/
 
 
 ## Contributions <a name="contributions"></a>
