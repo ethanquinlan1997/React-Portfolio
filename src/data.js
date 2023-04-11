@@ -4,6 +4,7 @@ import PetCheckPlusImage from "./assets/PetCheckPlus.png"
 import TimedJsQuizImage from "./assets/TimedJsQuiz.png"
 import PasswordGeneratorImage from './assets/PasswordGenerator.png'
 import RegexTutorialImage from './assets/RegexTutorial.png'
+import ParkingManager from './assets/Parking_Manager.png'
 
 
 export const projects = [
@@ -54,6 +55,14 @@ export const projects = [
         "A regex, which is short for regular expression, is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also frequently used to validate input.",
       image: RegexTutorialImage,
       link: "https://gist.github.com/ethanquinlan1997/0b5db7c5a131a8d629912085c1be800d",
+    },
+    {
+      title: "Parking Manager",
+      subtitle: "MERN Stack",
+      description:
+        "A parking manager app that will give access to customer who want an easier parking experience",
+      image: ParkingManager,
+      link: "https://parking-manager.herokuapp.com/",
     },
  
   ];
